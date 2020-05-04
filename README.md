@@ -1,3 +1,3 @@
 # FdF
 
-A small program that displays raised-relief maps in isometric 3D.
+A small wireframe program that displays raised-relief maps in isometric perspective
